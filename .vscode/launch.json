@@ -38,3 +38,6 @@
 
     ]
 }
+
+// g++ twoSum.cpp -o twoSum
+// ./twoSum
